@@ -1,5 +1,3 @@
-# La-H-en-la-Lengua-Espa-ola
-
 # H+ — Aprende la H en español
 
 Aplicación web educativa creada con HTML, CSS y JavaScript puro.
